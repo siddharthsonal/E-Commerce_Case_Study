@@ -197,4 +197,4 @@ Aspiring Data Analyst | SQL | Python | Power BI
 
 GitHub: https://github.com/siddharthsonal
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn: *(linkedin.com/in/siddharth-sonal)*
